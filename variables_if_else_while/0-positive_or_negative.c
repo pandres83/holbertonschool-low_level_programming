@@ -2,6 +2,7 @@
 #include <time.h>
 #include <stdio.h>
 /*
+ * Main - Entry Point
  * Description: This function prints is a number is zero negative or positive
  * Return: Always 0.
  */
