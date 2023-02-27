@@ -1,7 +1,8 @@
 #include <stdio.h>
-/*
+/**
  *Excercise two - project: C - Variables, if, else, while
  *Description: prints the alphabet in lower case
+ *Return: Always (0);
  */
 int main(void)
 {
