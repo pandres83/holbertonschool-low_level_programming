@@ -4,7 +4,6 @@
 /**
  * main - Entry point
  * Description: 'the program's description'
- * @parameter: describe the parameter
  * Return: Always 0 (Success)
  */
 int main(void)
@@ -24,8 +23,8 @@ int main(void)
 			printf("Las digit of %d is %d and is 0\n", n, last_digit);
 		}else
 		{
-			printf("Last digit of %d is %d and is less than 6 \
-and not 0\n", n, last_digit);
+			printf("Last digit of %d is %d and is less than 6 and \
+not 0\n", n, last_digit);
 		}
 	return (0);
 }
