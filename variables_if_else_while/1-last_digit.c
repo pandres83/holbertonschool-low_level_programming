@@ -1,11 +1,13 @@
 #include <stdlib.h>
 #include <time.h>
 #include <stdio.h>
+
 /**
  * Ejercicio last_digit
  * Description: Este ejercicio obtiene el ultimo numero entero de una cadena de numeros 
  * Return: Return 0;
 */
+
 int main(void)
 {
 	int n;
