@@ -1,6 +1,6 @@
 #include <stdio.h>
 /**
- *Excercise two - project: C - Variables, if, else, while
+ *print_alphabet_x10
  *Description: prints the alphabet 10 times
  *Return: Always (0);
  */
