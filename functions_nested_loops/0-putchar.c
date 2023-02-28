@@ -1,6 +1,7 @@
 #include "main.h"
 /**
  *main: it print the word _putchar
+ *Return: 0
  */
 
 int main(void)
@@ -13,6 +14,6 @@ int main(void)
 	putchar('h');
 	putchar('a');
 	putchar('r');
-	puts("\n");
-	return(0);
+	putchar('\n');
+	return (0);
 }
