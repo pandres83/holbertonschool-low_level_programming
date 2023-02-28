@@ -1,7 +1,9 @@
 #include "main.h"
 /**
  *main: it print the word _putchar
- *Return: 0
+ *
+ *Description:this code prints the word _putchar
+ *Return: it return a number 0
  */
 
 int main(void)
