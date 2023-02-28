@@ -1,17 +1,4 @@
 #include "main.h"
-/*This print the alphabet*/
-void print_alphabet(void);
-/**
- * main - check the code
- *
- * Return: Always 0.
- */
-int main(void)
-{
-	print_alphabet();
-	return (0);
-}
-
 /**
  * print_alphabet - Print characters
  *
