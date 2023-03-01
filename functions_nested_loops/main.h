@@ -5,3 +5,5 @@ int _putchar(char c);
 void print_alphabet(void);
 /* Function that prints 10 times the alphabet*/
 void print_alphabet_x10(void);
+/*Function that*/
+int _islower(int c);
