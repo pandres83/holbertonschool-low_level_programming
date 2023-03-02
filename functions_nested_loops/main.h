@@ -9,3 +9,5 @@ void print_alphabet_x10(void);
 int _islower(int c);
 /*Validate wheter a character is number is aalphabetic or not*/
 int _isalpha(int c);
+/*Print abs number*/
+int _abs(int);
