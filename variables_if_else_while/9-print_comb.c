@@ -1,6 +1,6 @@
 #include <stdio.h>
 /**
- *Excercise nine - project: C - Variables, if, else, while
+ *main - project: C - Variables, if, else, while
  *Description: Prints all possible combinations of single digit number
  *Return: Always (0);
  */
@@ -15,5 +15,6 @@ int main(void)
 		putchar(' ');
 	}
 	putchar(9 + '0');
+	putchar('\n');
 	return (0);
 }
