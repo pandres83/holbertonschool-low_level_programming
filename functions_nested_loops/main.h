@@ -11,3 +11,5 @@ int _islower(int c);
 int _isalpha(int c);
 /*Print abs number*/
 int _abs(int);
+/*Print  the last digit*/
+int print_last_digit(int);
