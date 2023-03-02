@@ -1,6 +1,6 @@
 #include <stdio.h>
 /**
- *Excercise eigth - project: C - Variables, if, else, while
+ *main - project: C - Variables, if, else, while
  *Description: Prints numbers all the numbers of base 16.
  *Return: Always (0);
  */
@@ -13,7 +13,7 @@ int main(void)
 	{
 		putchar(number + '0');
 	}
-	for (letter = 'a'; letter<'g'; letter++)
+	for (letter = 'a'; letter <'g'; letter++)
 	{
 		putchar(letter);
 	}
