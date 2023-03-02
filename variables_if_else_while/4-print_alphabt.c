@@ -1,6 +1,6 @@
 #include <stdio.h>
 /**
- *Excercise four - project: C - Variables, if, else, while
+ *main - project: C - Variables, if, else, while
  *Description: Not prints letter q an e
  *Return: Always (0);
  */
