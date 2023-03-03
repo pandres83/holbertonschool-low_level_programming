@@ -13,3 +13,7 @@ int _isalpha(int c);
 int _abs(int);
 /*Print  the last digit*/
 int print_last_digit(int);
+/*times table exercise*/
+void times_table(void);
+/*print numbers*/
+void print_to_98(int n);
