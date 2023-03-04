@@ -16,10 +16,10 @@ void times_table(void)
 		{
 			res = k * n;
 			printf("%d", res);
-			if (k != 9 )
+			if (k != 9)
 			{
 				putchar(',');
-				if ( (k + 1) * n < 10)
+				if ((k + 1) * n < 10)
 				{
 					putchar(' ');
 					putchar(' ');
