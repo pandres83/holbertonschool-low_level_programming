@@ -17,3 +17,5 @@ int print_last_digit(int);
 void times_table(void);
 /*print numbers*/
 void print_to_98(int n);
+/*plus two number*/
+int add(int, int);

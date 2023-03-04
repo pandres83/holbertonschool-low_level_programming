@@ -1,0 +1,16 @@
+#include <stdio.h>
+/**
+ *add - add two numbers.
+ *@n1: number 1
+ *@n2: number 2
+ *
+ *Description: add two numbers.
+ *Return: the result
+*/
+int add(int n1, int n2)
+{
+	int result;
+
+	result = n1 + n2;
+	return (result);
+}
