@@ -21,3 +21,5 @@ void print_to_98(int n);
 int add(int, int);
 /*pointer*/
 void reset_to_98(int *n);
+/*pointer 2*/
+void swap_int(int *a, int *b);
