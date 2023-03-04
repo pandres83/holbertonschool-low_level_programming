@@ -19,7 +19,7 @@ void times_table(void)
 			if (k != 9 )
 			{
 				putchar(',');
-				if (res < 10)
+				if ( (k + 1) * n < 10)
 				{
 					putchar(' ');
 					putchar(' ');
