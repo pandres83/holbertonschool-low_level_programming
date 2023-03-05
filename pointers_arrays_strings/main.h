@@ -23,3 +23,5 @@ int add(int, int);
 void reset_to_98(int *n);
 /*pointer 2*/
 void swap_int(int *a, int *b);
+/*tells the large of a string*/
+int _strlen(char *s);
