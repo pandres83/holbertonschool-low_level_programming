@@ -33,3 +33,5 @@ void rev_string(char *s);
 void puts2(char *str);
 /*half string*/
 void puts_half(char *str);
+/*Print array*/
+void print_array(int *a, int n);
