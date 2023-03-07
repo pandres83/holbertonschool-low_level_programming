@@ -35,3 +35,7 @@ void puts2(char *str);
 void puts_half(char *str);
 /*Print array*/
 void print_array(int *a, int n);
+/*copy*/
+char *_strcpy(char *dest, char *src);
+/*Convert a string to english*/
+int _atoi(char *s);
